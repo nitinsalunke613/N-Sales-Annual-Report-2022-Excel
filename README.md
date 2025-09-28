@@ -99,3 +99,7 @@ Pivot table analysis.
 Charts & graphs for visualization.
 
 Final interactive Dashboard in Excel.
+
+## 📊 Dashboard Image
+![N-Sales-Annual-Report-2022-Excel](https://github.com/user-attachments/assets/12b19214-e6e8-4559-aef3-7f9fd43a062f)
+
